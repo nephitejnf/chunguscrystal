@@ -661,7 +661,7 @@ Text_YouCantUseItInABattle::
 	prompt
 
 Text_AreYouABoyOrAreYouAGirl::
-	text "Are you a boy?"
+	text "Are you chungus?"
 	line "Or are you a girl?"
 	done
 

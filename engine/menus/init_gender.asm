@@ -50,7 +50,7 @@ InitGender:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_WRAP | STATICMENU_DISABLE_B ; flags
 	db 2 ; items
-	db "Boy@"
+	db "Bugs@"
 	db "Girl@"
 
 TextJump_AreYouABoyOrAreYouAGirl:

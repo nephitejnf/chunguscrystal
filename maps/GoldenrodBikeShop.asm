@@ -50,12 +50,13 @@ GoldenrodBikeShopClerkIntroText:
 	text "…sigh… I moved"
 	line "here, but I can't"
 
-	para "sell my BICYCLES."
-	line "Why is that?"
+	para "sell my RUNNING"
+    line "SHOES."
+	cont "Why is that?"
 
-	para "Could you ride a"
-	line "BICYCLE and adver-"
-	cont "tise for me?"
+	para "Could you wear a"
+	line "pair of SHOES and"
+	cont "advertise for me?"
 	done
 
 GoldenrodBikeShopClerkAgreedText:
@@ -65,12 +66,12 @@ GoldenrodBikeShopClerkAgreedText:
 	line "and phone number,"
 
 	para "and I'll loan you"
-	line "a BICYCLE."
+	line "a pair of SHOES."
 	done
 
 BorrowedABicycleText:
-	text "<PLAYER> borrowed a"
-	line "BICYCLE."
+	text "<PLAYER> borrowed"
+	line "RUNNINGSHOES."
 	done
 
 GoldenrodBikeShopClerkFirstRateBikesText:
